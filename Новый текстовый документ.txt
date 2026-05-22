@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Мій сайт</title>
+</head>
+<body>
+
+    <h1>Привіт! Це мій сайт</h1>
+    <p>Тут є текст, картинка та список.</p>
+
+    <img src="https://picsum.photos/400/200" alt="Картинка">
+
+    <ul>
+        <li>Перший елемент</li>
+        <li>Другий елемент</li>
+        <li>Третій елемент</li>
+    </ul>
+
+</body>
+</html>
